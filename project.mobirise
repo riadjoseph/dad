@@ -53,10 +53,13 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "siteUrl": "undefined",
+    "siteUrl": "",
     "google-analytics": "",
     "cookiesAlert": "",
-    "gdpr": ""
+    "gdpr": "",
+    "sitemapSwitcherAuto": "on",
+    "robotsText": "User-agent: *\nDisallow: /\n\n",
+    "robotsSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -64,8 +67,8 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
+        "header_custom": "<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js\"></script>",
+        "footer_custom": "<script id=\"leform-remote\" src=\"https://greenforms.pro/standalone-demo/content/plugins/halfdata-green-forms/js/leform.min.js?ver=1.13\" data-handler=\"https://greenforms.pro/standalone-demo/ajax.php\"></script>",
         "html_before": ""
       },
       "components": [
