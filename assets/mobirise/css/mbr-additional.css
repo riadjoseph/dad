@@ -1042,7 +1042,7 @@ pre {
     padding-left: 0;
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 1385px) {
   .navbar-toggleable-sm {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
