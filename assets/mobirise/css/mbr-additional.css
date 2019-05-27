@@ -1915,6 +1915,7 @@ body {
 }
 #custom-html-0 .social-list {
   margin-bottom: 3.5vmin;
+  list-style: none;
 }
 #custom-html-0 .social-list li {
   margin-top: 3.8vmin;
