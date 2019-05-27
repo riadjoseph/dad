@@ -152,8 +152,10 @@ body {
 .btn-primary,
 .btn-primary:active {
   background-color: #ba924d !important;
-  border-color: #ba924d !important;
+  border-color: #ffffff !important;
   color: #ffffff !important;
+  border-radius: 0px;
+  border-width: thin;
 }
 .btn-primary:hover,
 .btn-primary:focus,
