@@ -102,7 +102,7 @@ body {
   -webkit-align-items: center;
   -webkit-justify-content: center;
   display: -webkit-inline-flex;
-  padding: 1rem 3rem;
+  padding: 0.15rem 2.5rem;
   border-radius: 0px;
 }
 .btn-sm {
