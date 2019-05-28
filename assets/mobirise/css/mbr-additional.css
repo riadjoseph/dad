@@ -2208,7 +2208,7 @@ body {
   height: 40px;
   margin-top: -1.5rem;
   font-size: 35px;
-  background-color: rgba(0, 0, 0, 0.1);
+  /* background-color: rgba(0, 0, 0, 0.1); */
   border: 2px solid #fff;
   border-radius: 50%;
   transition: all .3s;
@@ -2223,11 +2223,11 @@ body {
   /* margin-right: 2.5rem;*/
 }
 .cid-rr9MOSZIrU .mbr-slider .carousel-control .mbr-iconfont {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 @media (max-width: 767px) {
   .cid-rr9MOSZIrU .mbr-slider .carousel-control {
-    top: auto;
+    /*top: auto;*/
     bottom: 1rem;
   }
 }
