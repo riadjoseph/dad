@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700,800);
 
 
 
@@ -86,10 +86,10 @@ body {
 }
 /* Buttons */
 .btn {
-  font-weight: 500;
-  border-width: 2px;
+  font-weight: 400;
+  border-width: 0px;
   font-style: normal;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
   margin: .4rem .8rem;
   white-space: normal;
   -webkit-transition: all 0.3s ease-in-out;
@@ -103,7 +103,7 @@ body {
   -webkit-justify-content: center;
   display: -webkit-inline-flex;
   padding: 1rem 3rem;
-  border-radius: 3px;
+  border-radius: 0px;
 }
 .btn-sm {
   font-weight: 500;
@@ -2112,8 +2112,8 @@ body {
   line-height: 27px;
 }
 .cid-rr9MOSZIrU .carousel-control:hover {
-  background: #1b1b1b;
-  color: #fff;
+  background: #ba924d26;
+  /*color: #fff;*/
   opacity: 1;
 }
 @media (max-width: 767px) {
@@ -2204,22 +2204,23 @@ body {
 }
 .cid-rr9MOSZIrU .mbr-slider .carousel-control {
   top: 50%;
-  width: 70px;
-  height: 70px;
+  width: 40px;
+  height: 40px;
   margin-top: -1.5rem;
   font-size: 35px;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.1);
   border: 2px solid #fff;
   border-radius: 50%;
   transition: all .3s;
+  color: #417e68;
 }
 .cid-rr9MOSZIrU .mbr-slider .carousel-control.carousel-control-prev {
   left: 0;
-  margin-left: 2.5rem;
+  /* margin-left: 2.5rem; */
 }
 .cid-rr9MOSZIrU .mbr-slider .carousel-control.carousel-control-next {
   right: 0;
-  margin-right: 2.5rem;
+  /* margin-right: 2.5rem;*/
 }
 .cid-rr9MOSZIrU .mbr-slider .carousel-control .mbr-iconfont {
   font-size: 2rem;
