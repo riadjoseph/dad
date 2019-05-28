@@ -38,7 +38,7 @@ body {
   font-size: 3.2rem;
 }
 .display-4 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
@@ -2447,7 +2447,7 @@ body {
   padding: .5rem;
 }
 .cid-rqS6zcP89u .nav-tabs .nav-link {
-  color: #417e68;
+  color: #232323;
   font-style: lighter;
   font-weight: 100;
   border: 0px solid #417e68;
@@ -2601,7 +2601,7 @@ body {
   padding: .5rem;
 }
 .cid-rqSpICdNod .nav-tabs .nav-link {
-  color: #417e68;
+  color: #3d3d3d;
   font-style: lighter;
   font-weight: 300;
   border: 0px solid #417e68;
@@ -2653,7 +2653,7 @@ body {
   }
 }
 .cid-rqSvdlICaH .img-logo img {
-  height: 6rem;
+  height: 12rem;
 }
 .cid-rqSvdlICaH .form-group,
 .cid-rqSvdlICaH .input-group-btn {
@@ -2673,7 +2673,7 @@ body {
 }
 .cid-rqSvdlICaH a {
   margin: 0;
-  opacity: .5;
+  opacity: none;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
